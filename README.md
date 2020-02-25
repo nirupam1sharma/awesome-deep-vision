@@ -402,6 +402,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Videos
 * Talks
+  * [AI Journal](https://www.youtube.com/channel/UClYa0mbW-2TgBc_Xnu4HdYg)
   * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
   * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
   * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
